@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{ background:url(bg.jpg); margin:auto;}
+ul{ list-style: none; margin: 0; color:#FFD393;}
+p {
+	color: #FFD393;
+	font-family: Verdana, Geneva, sans-serif;
+}
+li{text-align:justify; display: inline; text-decoration:none;}
+li a {text-decoration:none; color: #FFD393; padding:14px 15px 15px 15px;}
+li a:hover {background-color:#4f3713;}
+.header {
+	font-weight: bold;
+}
+.labelers {
+	font-size: 10px;
+}s
